@@ -34,6 +34,9 @@ Third one is for uploading previously downloaded images to your instagram accoun
 
 Instabot automatically resizes images upon uploading them, so each file will have a resized duplicate in "images" folder.
 
+**4) The result:**
+
+![instagram](https://i.paste.pics/1a8b7f044fe25a7a4acf7a175e0eaaaa.png)
 
 ## Project Goals
 The code is written for educational purposes on online-course for web-developers dvmn.org.
